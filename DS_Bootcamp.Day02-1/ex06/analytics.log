@@ -1,0 +1,26 @@
+2025-02-17 23:44:51,%f Initialized Research with path: data.csv
+2025-02-17 23:44:51,%f Initialized Calculations
+2025-02-17 23:44:51,%f Calculating number of heads and tails
+2025-02-17 23:44:51,%f Calculating fractions of heads and tails
+2025-02-17 23:44:51,%f Calculating number of heads and tails
+2025-02-17 23:44:51,%f Initialized Calculations
+2025-02-17 23:44:51,%f Initialized Analytics
+2025-02-17 23:44:51,%f Making predictions
+2025-02-17 23:44:51,%f Counting number of predicted values
+2025-02-17 23:44:51,%f Saving report into the file
+2025-02-17 23:44:51,%f Starting new HTTPS connection (1): api.telegram.org:443
+2025-02-17 23:44:52,%f https://api.telegram.org:443 "POST /bot7584802854:AAG9KnaT0uWGszBOO7uxY3aKKq1Y-824oso/sendMessage HTTP/1.1" 200 283
+2025-02-17 23:44:52,%f Telegram message sent: The report has been successfully created
+2025-02-17 23:46:31,%f Initialized Research with path: data.csv
+2025-02-17 23:46:31,%f Initialized Calculations
+2025-02-17 23:46:31,%f Calculating number of heads and tails
+2025-02-17 23:46:31,%f Calculating fractions of heads and tails
+2025-02-17 23:46:31,%f Calculating number of heads and tails
+2025-02-17 23:46:31,%f Initialized Calculations
+2025-02-17 23:46:31,%f Initialized Analytics
+2025-02-17 23:46:31,%f Making predictions
+2025-02-17 23:46:31,%f Counting number of predicted values
+2025-02-17 23:46:31,%f Saving report into the file
+2025-02-17 23:46:31,%f Starting new HTTPS connection (1): api.telegram.org:443
+2025-02-17 23:46:32,%f https://api.telegram.org:443 "POST /bot7584802854:AAG9KnaT0uWGszBOO7uxY3aKKq1Y-824oso/sendMessage HTTP/1.1" 200 288
+2025-02-17 23:46:32,%f Telegram message sent: The report hasnt been created due to an error
